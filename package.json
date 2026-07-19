@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-alpaca",
+  "version": "0.1.0",
+  "description": "Alpaca MCP — real-time US stock market data via the Alpaca Market Data API",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "alpaca"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-alpaca"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
