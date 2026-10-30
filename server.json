@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/alpaca",
   "title": "Alpaca",
   "description": "Alpaca MCP — real-time US stock market data via the Alpaca Market Data API (data.alpaca.markets…",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "websiteUrl": "https://pipeworx.io/packs/alpaca",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-alpaca",

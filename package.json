@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-alpaca",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Alpaca MCP — real-time US stock market data via the Alpaca Market Data API (data.alpaca.markets, v2). BYOK: free Alpaca accounts get real-time IEX-feed data including extended hours; VWAP comes back on every bar.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "alpaca",
     "gatewaySlug": "alpaca",
-    "sourceHash": "v1-b63ae2877497c95307268f9f105820c0ae8d3da7819a0d7a27dc5bb85135de0f",
-    "sourceCommit": "c6136b81713e72ccb22977ca0c0cd981f8c3f081"
+    "sourceHash": "v1-47bbd0100a1bb904e17a8161df13bc3f7d8d0b49d35e282b8255017e3df9191b",
+    "sourceCommit": "aef970216f5309cdd22a27ddfc275e472aaadac1"
   }
 }
